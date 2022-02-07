@@ -7,7 +7,7 @@ This app shows a list of users from a SQLite database, and every user has his ow
 ## Techs
 * **RecyclerView**.
 * **SQLite**.
-* * **Alertdialog**.
+* **Alertdialog**.
 
 ## Screenshots
 
