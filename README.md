@@ -4,6 +4,10 @@
 This app shows a list of users from a SQLite database, and every user has his own data and can transfer money to another user, and this transaction is stored in a SQLite database too.
 
 
+## Techs
+* **RecyclerView**.
+* **SQLite**.
+
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/79477855/152810218-3feebd32-346a-4d2c-bbaa-28fcaa06f761.jpg)
